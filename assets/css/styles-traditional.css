@@ -24,17 +24,17 @@ body {
 
 
 .title-style {
-  font-family: 'Gorditas', cursive;
+  font-family: 'Poppins', cursive;
   color: white;
 }
 
 .subtitle-style {
-  font-family: 'Karla', sans-serif;
+  font-family: 'Poppins', sans-serif;
   color: white;
 }
 
 .karla-font {
-  font-family: 'Karla', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 hr.style_section {
@@ -181,7 +181,7 @@ hr.style_section {
   @import url(https://fonts.googleapis.com/css?family=Roboto:300,400);
 @import url(assets/font-awesome/4.4.0/css/font-awesome.min.css);
 .snip1359 {
-  font-family: 'Gorditas', cursive;
+  font-family: 'Poppins', cursive;
   position: relative;
   float: left;
   overflow: hidden;
@@ -472,7 +472,7 @@ hr.style_section {
 
 /* Events */
 .main-events-title {
-  font-family: 'Gorditas', cursive;
+  font-family: 'Poppins', cursive;
   color: #ffffff;
   }
   
